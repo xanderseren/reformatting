@@ -1,5 +1,5 @@
 # reformatting
-reformatting.theactualschool.com
+For *A Flexible Anarchy* on [The Actual School](https://theactualschool.com) in May 2015
 
 This site:
 
