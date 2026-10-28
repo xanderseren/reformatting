@@ -1,0 +1,14 @@
+/.git/
+/.amp/
+/.wrangler/
+/node_modules/
+/wrangler.jsonc
+/README.md
+**/.DS_Store
+/.gitignore
+/WORKERS_PREVIEW.md
+/.github/
+/.env
+/.env.*
+/.dev.vars
+/.dev.vars.*
